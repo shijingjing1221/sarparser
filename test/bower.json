@@ -1,0 +1,20 @@
+{
+  "name": "demo",
+  "main": "test.js",
+  "authors": [
+    "shijingjing1221@gmail.com"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
